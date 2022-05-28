@@ -1,0 +1,39 @@
+[
+    {  
+        "id": 1,
+        "title": "EduBot",
+        "image": "edubot.png",
+        "tools": "Python",
+        "description": "EduBot is a discord bot created for ruHacks 2021. The bot is designed to help students stay organized through a common platform. The bot allows you to keep track of your schedule and notify you when of important class and date times. Concepts like event handlers and listeners, and apsheduler was used.",
+        "github": "https://github.com/maryam-elbeshbishy/ruHacks2021"
+    },
+
+    {  
+        "id": 2,
+        "title": "Personal Portfolio",
+        "image": "portfolio.png",
+        "tools": "VUE 3 - HTML - CSS - JS",
+        "description": "This is the website you are viewing at the moment! This website was created using VUE and was a way for me to learn a front end framework, as well as creating a way to showcase my porfolio. Concepts such as using components, displaying data from JSON files used, along with basic HTML and CSS.",
+        "github": "https://github.com/maryam-elbeshbishy"
+    },
+
+    {  
+        "id": 3,
+        "title": "To Do List",
+        "image": "toDoJS.png",
+        "tools": "Node JS - HTML - CSS",
+        "description": "Simple To Do application that allows the user to add and remove items from the list. Created with the aim to learn basic Node.js concepts.",
+        "github": "https://github.com/maryam-elbeshbishy/ToDoJS"
+    },
+
+    {  
+        "id": 4,
+        "title": "Maze Game",
+        "image": "ProfileImage.png",
+        "tools": "Unity - C#",
+        "description": "[IN PROGRESS] This application is a simple Virtual reality game that is configured to operate with the Quest 2 headset. You are immediately put into the maze and have to find your way out before the timer ends.",
+        "github": "https://github.com/maryam-elbeshbishy"
+    }
+
+
+]
