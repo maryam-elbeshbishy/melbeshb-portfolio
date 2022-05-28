@@ -53,20 +53,26 @@ export default {
 </script>
 
 <style scoped>
-a{
-    padding: 1vh;
+a{ 
+    margin: 1vw;
+    padding: 1vw;
 }
-div.item {
+.item {
     vertical-align: top;
     display: inline-block;
     text-align: center;
-    width: 120px;
+    width: 15vw;
+    margin: 1vw;
+    padding: 0vw;
+}
+.caption{ 
+    font-size: 1vw
 }
 .outer{
-    padding-top: 2vh;
-    padding-bottom: 2vh;
-    padding-left: 20vh;
-    padding-right: 20vh;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
     background-color: rgb(34, 34, 34);
     color: rgb(255, 255, 255);
 }
@@ -77,13 +83,10 @@ div.item {
     align-items: flex-start;
 }
 .flex-container img{
-    margin: 1vh;
-
-    margin-bottom: 6vh;
-    height: 7vh;
+    height: 4vw;
 }
 h1{
-    font-size: 4vh;
+    font-size: 3vw;
 }
 
 </style>

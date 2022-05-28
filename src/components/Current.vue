@@ -1,4 +1,5 @@
 <template>
+
     <div class="outer">
 
         <h1>What am I currently working on?</h1>
@@ -37,10 +38,10 @@ export default ({
 
 <style scoped>
 .outer{
-    padding-top: 5vh;
-    padding-bottom: 10vh;
-    padding-left: 30vh;
-    padding-right: 30vh;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: 15vw;
+    padding-right: 15vw;
     background-color: rgb(34, 34, 34);
     color: rgb(255, 255, 255);
 }
@@ -51,14 +52,17 @@ export default ({
     align-items: flex-start;
 }
 img{
-    margin: 3vh;
-    margin-bottom: 6vh;
-    height: 50vh;
-    border-radius: 1vh;
+    margin: 1vw;
+    margin-bottom: 3vw;
+    width: 60vw;
+    border-radius: 1vw;
     box-shadow: 3px 3px 8px 3px rgba(127, 5, 38, 0.672); 
 }
 p {
-    font-size: 2.5vh;
+    font-size: 1.3vw;
     text-align: justify;
+}
+h1{ 
+    font-size: 2.5vw;
 }
 </style>

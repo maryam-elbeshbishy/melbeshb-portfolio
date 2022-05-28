@@ -1,4 +1,8 @@
 <template>
+  <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+
   <div class="topNav">
     <a href="#about">About Me</a>
     <a href="#current">Current Project</a>
@@ -65,13 +69,14 @@ scroll-behavior: smooth;
   text-align: center;
 }
 header{
-  padding: 3vh;
+  padding: 3vw;
   background-color: rgb(34, 34, 34);
   color: white;
 }
 a{
-  padding: 8vh;
+  padding: 8vw;
   color:white;
+  font-size: 1.2vw;
   text-decoration: none;
 }
 </style>

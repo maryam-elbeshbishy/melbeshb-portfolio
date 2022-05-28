@@ -59,27 +59,27 @@ export default ({
     align-items: flex-start;
 }
 .flex-container img{
-    width: 30vh;
-    height: 30vh;
-    margin-right: 1vh;
-    padding: 1vh;
+    width: 15vw;
+    height: auto;
+    margin-right: 1vw;
+    padding: 1vw;
 }
 h1{
-    font-size: 6vh;
+    font-size: 3vw;
 }
 p {
-    font-size: 2.5vh;
+    font-size: 1.2vw;
     text-align: justify;
     
 }
 .item{ 
-    max-width: 25vw;
+    max-width: 22vw;
 }
 .outer{
-    padding-top: 5vh;
-    padding-bottom: 10vh;
-    padding-left: 10vh;
-    padding-right: 10vh;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
     background-color: rgb(255, 249, 251);
     color: rgb(34, 34, 34);
 }
