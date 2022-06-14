@@ -19,8 +19,7 @@
         projects</b>, so that users are able to experience arts in a new way. Because I would like to create these art pieces
         <b>I would like to learn Blender</b>, so that I have a new tool under my belt.
         <br>
-        <br> 
-        <b>More here:</b> Youtube video link 
+        <br>
         </p>
     </div>  
 </template>
