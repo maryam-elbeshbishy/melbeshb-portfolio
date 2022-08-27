@@ -7,7 +7,7 @@
         <div><img src="../assets/Images/ProfileImage.jpg" alt="Image of Maryam Elbeshbishy"></div>
         <div>
             <h1>Maryam <br>Elbeshbishy</h1>
-            <h2>3rd Year Computer Science Student </h2>
+            <h2>4th Year Computer Science Student </h2>
             <h2>Toronto Metropolitan University (Ryerson University)</h2>
         </div>
     </div>
