@@ -20,13 +20,6 @@
         </figure>
 
         <figure class="item">
-            <a href="tel:647-620-6733">
-            <img src="../assets/contactImg/phone.png" alt="Clip Art">
-            </a>
-            <figcaption class="caption">647-620-6733</figcaption>
-        </figure>
-
-        <figure class="item">
             <a href = "mailto: maryam.elbeshbishy@ryerson.ca">
             <img src="../assets/contactImg/gmail.png" alt="Clip Art">
             </a>
